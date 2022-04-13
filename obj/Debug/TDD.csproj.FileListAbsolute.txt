@@ -1,0 +1,10 @@
+C:\Users\grayb\source\repos\TDD\bin\Debug\TDD.exe.config
+C:\Users\grayb\source\repos\TDD\bin\Debug\TDD.exe
+C:\Users\grayb\source\repos\TDD\bin\Debug\TDD.pdb
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.csprojAssemblyReference.cache
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.Properties.Resources.resources
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.csproj.GenerateResource.cache
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.exe
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.pdb
+C:\Users\grayb\source\repos\TDD\obj\Debug\TDD.sort_time.resources
